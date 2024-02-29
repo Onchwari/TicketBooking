@@ -1,7 +1,7 @@
 <html>
     <body>
         <head>
-        @vite('resources/js/app.js')
+            @vite('../resources/css/app.css')
             <nav class="border-blue-800 px-2 sm:px-4 py-3 dark:bg-blue-800">
                 <div
                     class="container flex flex-wrap justify-between items-center mx-auto"
