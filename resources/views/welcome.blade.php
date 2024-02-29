@@ -14,7 +14,7 @@
         />
 
         <body>
-            @extends('layouts.masterLayout')
+            @extends('layouts.masterlayout')
 
             <body>
                 @section('content')

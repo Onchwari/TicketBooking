@@ -1,4 +1,4 @@
-@vite('resources/css/app.css') @extends('layouts.masterLayout')
+@vite('resources/css/app.css') @extends('layouts.masterlayout')
 <body>
     @section('content')
 

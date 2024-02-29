@@ -1,4 +1,4 @@
-@extends('layouts.masterLayout')
+@extends('layouts.masterlayout')
 <html>
     <body>
         @vite('resources/css/app.css')
